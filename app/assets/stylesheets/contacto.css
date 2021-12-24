@@ -1,0 +1,29 @@
+
+.card{
+    border-radius: 20px;
+
+}
+.formulario{
+    padding:20px;
+    border-radius: 20px;
+    background: rgba(0,0,0,.7);
+    box-shadow: 0 0 100px rgba(0,0,0,.300);
+
+}
+
+.solicitar{
+    background: white;
+}
+
+.card-contacto{
+    margin: auto auto;
+    transition: all 0.2s ease;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.card-contacto:hover {
+    box-shadow: 5px 6px 6px 5px gray;
+    transform: scale(1.1);
+
+}

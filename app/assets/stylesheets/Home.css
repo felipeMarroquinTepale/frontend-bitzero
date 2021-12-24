@@ -1,0 +1,62 @@
+
+
+
+
+/*colores del texto*/
+.BIT{
+    color: #A50000;
+}
+.text-blackT{
+    font-weight: normal;
+    color: black;
+}
+.text-span{
+    font-weight: bold;
+}
+
+/*botones*/
+.d-grid {
+    margin-top: 15%;
+    width:80px;
+    height:70px;
+    border-radius: 10px;
+    background: #A50000;
+    box-shadow: 0 0 100px rgba(0,0,0,.300);
+}
+
+.d-grid:hover {
+    background-color: #c60000;
+}
+
+/*Despues del carrusel*/
+.reseña{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+}
+.tituloreseña{
+    /*background: yellow;*/
+    height: 150px;
+    margin-top: 5%;
+    /*IMPORTANTE*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.row{
+    border-radius: 18px;
+}
+
+
+
+.img-carousel{
+    transition: all 0.2s ease;
+    cursor: pointer;
+}
+
+.img-carousel:hover {
+    box-shadow: 5px 6px 6px 5px gray;
+    transform: scale(1.1);
+
+}
