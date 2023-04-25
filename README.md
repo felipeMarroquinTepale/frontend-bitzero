@@ -13,6 +13,9 @@ Diseño de la pagina
 Home 
 [![Home.png](https://i.postimg.cc/xCbqT0w3/Home.png)](https://postimg.cc/k6q7TdX2)
 
+[![home2.png](https://i.postimg.cc/Y2ns3HjM/home2.png)](https://postimg.cc/Thb0dBr4)
+
+
 Servicios
 
 [![servicios.png](https://i.postimg.cc/FsFmTrTC/servicios.png)](https://postimg.cc/dDfz1YPG)
